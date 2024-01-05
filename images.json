@@ -3,7 +3,8 @@
     "src": "1.png",
     "name": "European flag",
     "desc": "Colleagues love the EU, with a small Euro flag on their desks. In gather.town, I improved the poorly rescaled flag with my drawing.",
-    "right": "10px",
-    "bottom": "10px"
+    "right": "30%",
+    "bottom": "50%",
+    "date": "2023-05-11"
   }
 ]

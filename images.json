@@ -1,5 +1,13 @@
 [
   {
+    "src": "2.png",
+    "name": "Planted bush",
+    "desc": "I love digital plants. It doesn't matter if you forget them; they don't die. But, I probably like them because they are green.",
+    "left": "30%",
+    "bottom": "50%",
+    "date": "2024-01-08"
+  },
+  {
     "src": "1.png",
     "name": "European flag",
     "desc": "Colleagues love the EU, with a small Euro flag on their desks. In gather.town, I improved the poorly rescaled flag with my drawing.",
